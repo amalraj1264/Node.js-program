@@ -1,0 +1,23 @@
+{
+  "name": "nodeprog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amalraj1264/Node.js-program.git"
+  },
+  "author": "Amal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amalraj1264/Node.js-program/issues"
+  },
+  "homepage": "https://github.com/amalraj1264/Node.js-program#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.0"
+  }
+}
